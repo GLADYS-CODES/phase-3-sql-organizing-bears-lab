@@ -4,7 +4,7 @@ name TEXT,
 age INTEGER,
 sex TEXT,
 color TEXT,
-temperature TEXT,
+temperament TEXT,
 alive TEXT
 
 );
